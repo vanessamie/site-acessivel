@@ -1,4 +1,4 @@
-# Arquitetura CSS
+# Acessibilidade Web
 
 Site "Apeperia", utilizado durante Trilha Front-End, curso:
 - Acessibilidade web parte 1: tornando seu front-end inclusivo.
