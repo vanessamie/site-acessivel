@@ -20,7 +20,7 @@ Site "Apeperia", utilizado durante Trilha Front-End, curso:
   - Padronizar as divs;
   - Adicionar um link para ir ao conteúdo principal (e pular as opções do Menu);
   - alt nas imagens que possuem função de conteúdo, escrever de maneira descritiva, evitando redundâncias;
-  - colocar o elemento <title> em SVGs que forem inline (código direto no HTML).
+  - colocar o elemento < title> em SVGs que forem inline (código direto no HTML).
   - Separar o que é visual do que é conteúdo;
     - Colocar o que é visual no CSS;
     - list-style: none;
@@ -31,28 +31,28 @@ Site "Apeperia", utilizado durante Trilha Front-End, curso:
   - Evitrar submenus;
   - WAI-ARIA;
   - atribulo role;
-  - <figure>;
-  - <figcaption>;
+  - < figure>;
+  - < figcaption>;
   - aria-labelledby;
   - Em formulários:
-    - <input>;
-    - <label>;
+    - < input>;
+    - < label>;
     - for;
     - id;
     - readonly;
-- Inserção de legenda com <track>;
+- Inserção de legenda com < track>;
   - kind="subtitles";
   - srclang="pt-br";
   - label="Português(Brasil)"
   - Criação de arquivo de legenda;
-- <iframe>.
+- < iframe>.
 
 
 ##
 
 ### Observações
 
-###### Criei o arquivo "base.css", importando a url de todos os arquivos *.css, deixando o <head> mais organizado.
+###### Criei o arquivo "base.css", importando a url de todos os arquivos *.css, deixando o < head> mais organizado.
 
 ###### Eu não desenvolvi o site! HTML e CSS foram disponibilizados pelo instrutor! O intuito do curso era aprender e desenvolver um site acessível para deficientes visuais, com um bônus da legenda do vídeo, para acessibilidade de deficientes auditivos!
 
